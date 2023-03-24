@@ -1,0 +1,12 @@
+
+ keras==2.6.0
+ imutils==0.5.3
+ numpy==1.18.0
+ opencv-python==4.5.5.64
+ matplotlib==3.2.1
+ scipy==1.4.1
+ - argparse==1.1
+ pip~=18.1
+ wheel~=0.37.1
+ setuptools~=59.6.0
+ scikit-learn~=0.24.2
